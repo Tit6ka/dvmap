@@ -1,5 +1,5 @@
 # dvmap
-Samp map project for you site
+Samp map project for you site.
 
 [Release]
 
@@ -8,8 +8,8 @@ Samp map project for you site
 Заполню потом блядь
 
 >
-dvketead
-(c) 2015
+dvketead (c) 2015
+
 [dvketdeat]
 
 
