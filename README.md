@@ -1,6 +1,6 @@
-# DVEMap
-#####Samp map project for you site
-#####[Release]
+# dvmap
+Samp map project for you site
+[Release]
 
 
 # How to install
