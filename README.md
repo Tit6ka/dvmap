@@ -1,17 +1,16 @@
 # dvmap
 Samp map project for you site.
 
-[Release]
+Release:
+
+[forum]
+
+[official]
 
 
 # How to install
 Заполню потом блядь
 
->
-dvketead (c) 2015
 
-[dvketdeat]
-
-
-[dvketdeat]:http://samp.work
-[Release]:http://samp.work/dvmap
+[forum]:http://какойнибудьфорум.ru/
+[official]:http://samp.work/dvmap
